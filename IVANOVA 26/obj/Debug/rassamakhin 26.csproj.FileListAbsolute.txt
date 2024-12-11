@@ -1,0 +1,10 @@
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\bin\Debug\PZ26_KIRILLOV.exe.config
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\bin\Debug\PZ26_KIRILLOV.exe
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\bin\Debug\PZ26_KIRILLOV.pdb
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\rassamakhin 26.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\PZ26_KIRILLOV.Form1.resources
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\PZ26_KIRILLOV.Properties.Resources.resources
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\rassamakhin 26.csproj.GenerateResource.cache
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\rassamakhin 26.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\PZ26_KIRILLOV.exe
+C:\Users\Student28\Desktop\PZ26_KIRILLOV\obj\Debug\PZ26_KIRILLOV.pdb
